@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "skia_test",
+  "gif_test"
+]
